@@ -5,4 +5,9 @@ body {
   .hidden{
     display: none;
   }
+
+  img{
+    width: 800px;
+    height: auto;
+  }
   
